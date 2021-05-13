@@ -5,3 +5,4 @@ Cac thu vien can cai dat
 4. seaborn
 5. sklearn
 6. graphviz
+7. pydotplus
