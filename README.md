@@ -21,6 +21,3 @@ pip install graphviz
 pip install pydotplus
 pip install -U scikit-learn
 *LƯU Ý: Riêng thư viện graphviz dùng để mô hình hóa cây quyết định, ta phải tải và cài đặt bằng phần mềm ngoài để tạo ra folder chứa ảnh chứ không tải bằng pip được. Ta tải file từ đường dẫn: https://graphviz.org/download/ sau đó cài đặt. Trong bước cài đặt ta nhớ phải add Graphviz vào PATH để sử dụng được thư viện này.
- 
-
-
